@@ -1,0 +1,14 @@
+C:\dev\azure\learn\demo-web-app\demo\bin\Debug\netcoreapp2.1\demo.deps.json
+C:\dev\azure\learn\demo-web-app\demo\bin\Debug\netcoreapp2.1\demo.runtimeconfig.json
+C:\dev\azure\learn\demo-web-app\demo\bin\Debug\netcoreapp2.1\demo.runtimeconfig.dev.json
+C:\dev\azure\learn\demo-web-app\demo\bin\Debug\netcoreapp2.1\demo.dll
+C:\dev\azure\learn\demo-web-app\demo\bin\Debug\netcoreapp2.1\demo.pdb
+C:\dev\azure\learn\demo-web-app\demo\obj\Debug\netcoreapp2.1\demo.csprojAssemblyReference.cache
+C:\dev\azure\learn\demo-web-app\demo\obj\Debug\netcoreapp2.1\demo.csproj.CoreCompileInputs.cache
+C:\dev\azure\learn\demo-web-app\demo\obj\Debug\netcoreapp2.1\demo.RazorAssemblyInfo.cache
+C:\dev\azure\learn\demo-web-app\demo\obj\Debug\netcoreapp2.1\demo.RazorAssemblyInfo.cs
+C:\dev\azure\learn\demo-web-app\demo\obj\Debug\netcoreapp2.1\demo.AssemblyInfoInputs.cache
+C:\dev\azure\learn\demo-web-app\demo\obj\Debug\netcoreapp2.1\demo.AssemblyInfo.cs
+C:\dev\azure\learn\demo-web-app\demo\obj\Debug\netcoreapp2.1\demo.RazorTargetAssemblyInfo.cache
+C:\dev\azure\learn\demo-web-app\demo\obj\Debug\netcoreapp2.1\demo.dll
+C:\dev\azure\learn\demo-web-app\demo\obj\Debug\netcoreapp2.1\demo.pdb
